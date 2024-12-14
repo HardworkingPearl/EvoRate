@@ -2,7 +2,7 @@
 
 [__[Paper]__](https://openreview.net/pdf?id=I2gVmVRgNk) 
 &nbsp; 
-This is the authors' official PyTorch implementation for SDE-EDG method in the **NeurIPS 2024 (Spotlight)** paper [Towards Understanding Evolving Patterns in Sequential Data](https://openreview.net/pdf?id=I2gVmVRgNk).
+This is the authors' official PyTorch implementation for EvoRate method in the **NeurIPS 2024 (Spotlight)** paper [Towards Understanding Evolving Patterns in Sequential Data](https://openreview.net/pdf?id=I2gVmVRgNk).
 
 
 ## Prerequisites
@@ -12,10 +12,6 @@ This is the authors' official PyTorch implementation for SDE-EDG method in the *
 - pandas 
 - matplotlib
 - seaborn
-
-## Dataset
-- Circle/Sine/RMNIST/Portraits/Caltran/PowerSupply download through [here](https://github.com/WonderSeven/LSSAE?tab=readme-ov-file)
-- [Ocular Disease](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k/data)
 
 ## Run EvoRate with Correspondences
 ```
